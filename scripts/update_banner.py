@@ -1,6 +1,6 @@
 import re
+import time
 from pathlib import Path
-
 
 banners = [
     "assets/banners/banner_1.jpg",
@@ -15,7 +15,7 @@ readme = Path("README.md")
 content = readme.read_text()
 
 
-pattern = r"assets/banners/banner_(\d+)\.jpg"
+pattern = r"assets/banners/banner_(\d+)\.jpg(\?v=\d+)?"
 match = re.search(pattern, content)
 
 if match:
@@ -24,7 +24,11 @@ if match:
 else:
     next_banner = 1
 
-new_content = re.sub(pattern, f"assets/banners/banner_{next_banner}.jpg", content)
+
+timestamp = int(time.time())
+new_banner = f"assets/banners/banner_{next_banner}.jpg?v={timestamp}"
+
+new_content = re.sub(pattern, new_banner, content)
 
 readme.write_text(new_content)
-print(f"Updated banner to banner_{next_banner}.jpg")
+print(f"Updated banner to banner_{next_banner}.jpg with v={timestamp}")
