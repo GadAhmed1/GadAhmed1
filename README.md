@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banners/banner_2.jpg" width="100%" />
+  <img src="assets/banners/banner_3.jpg" width="100%" />
 </p>
 
 # 🪐 Welcome to My Little Museum of Code  
