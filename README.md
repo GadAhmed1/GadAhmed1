@@ -4,68 +4,51 @@
 
 # 🪐 Welcome to My Little Museum of Code  
 
-Not a portfolio. Not about likes or trends.  
-This is my quiet space — where I collect small artifacts of code,  
-each repository a room in this silent museum.  
+Not a portfolio. Not built for fame.
+just a quiet archive where I place my artifacts of code.
+Some old, some still in progress,
+and some hidden, never meant to be seen.
 
 ---
 
 ## 🧩 About Me  
 
-- 💻 Full-stack developer who enjoys turning ideas into simple, elegant code.  
-- 🎨 Interested in clean design and the little details that make tools enjoyable.  
-- 🌙 Most productive at night, with dual screens glowing and quiet around.  
-- 📚 Always curious — learning, unlearning, and learning again.  
+- 👋 Hi, I’m **Gad Ahmed**, 17 y/o.
+- 🎓 Fresh graduate from **WE Applied Technology School**.
+- 💻 MERN-stack developer who loves building simple, elegant solutions.
+- 🎨 Fascinated by clean design and subtle details.
 
----
 
 ## 🛠 Tech I Enjoy Using  
 
-**Frontend**  
-React • Next.js • Tailwind • Framer Motion  
+| **Frontend** | **Backend** | **Databases** | **Other Tools** |
+|--------------|-------------|---------------|-----------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) |
 
-**Backend**  
-Node.js • Express • Laravel • PHP  
-
-**Databases**  
-MongoDB • MySQL  
-
-**Other Tools**  
-TypeScript • Python • Git • VS Code  
 
 ---
 
-## 📂 Featured Projects  
-
-🔹 **Museum of Code** — A collection of personal experiments and projects.  
-🔹 **Portfolio** — Minimal, fast, and responsive personal site.  
-🔹 **Docs Playground** — Learning React through writing.  
-
-*(More in the repositories — each one is a small artifact.)*  
-
----
 
 ## 📊 GitHub at a Glance  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GadAhmed1&show_icons=true&theme=dracula&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GadAhmed1&layout=compact&theme=dracula" height="160" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=GadAhmed1&theme=radical&hide_border=true" height="180" />
 </p>
 
----
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GadAhmed1&theme=dracula&hide_border=true&area=true" />
+</p>
 
-## 🌱 Currently Exploring  
-
-- Better ways to write **clean, maintainable code**  
-- Subtle UI/UX animations that feel natural  
-- TypeScript for more reliable projects  
 
 ---
+
 
 ## 📬 Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://eg.linkedin.com/in/gad-ahmed-53a192335?trk=people-guest_people_search-card" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="mailto:gad199880@gmail.com">
@@ -75,8 +58,3 @@ TypeScript • Python • Git • VS Code
 
 ---
 
-## 💡 Programming Quote  
-
-> "Programs must be written for people to read,  
-> and only incidentally for machines to execute."  
-> — Harold Abelson
