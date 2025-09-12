@@ -32,3 +32,4 @@ new_content = re.sub(pattern, new_banner, content)
 
 readme.write_text(new_content)
 print(f"Updated banner to banner_{next_banner}.jpg with v={timestamp}")
+ 
