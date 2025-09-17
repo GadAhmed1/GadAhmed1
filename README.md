@@ -45,7 +45,7 @@ and some hidden, never meant to be seen.
 ---
 
 
-## 📬 Connect  
+## 📬 Connect
 
 <p align="center">
   <a href="https://eg.linkedin.com/in/gad-ahmed-53a192335?trk=people-guest_people_search-card" target="_blank">
