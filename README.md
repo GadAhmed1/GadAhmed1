@@ -36,10 +36,9 @@ and some hidden, never meant to be seen.
   <img src="https://streak-stats.demolab.com?user=GadAhmed1&theme=radical&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <!-- Activity Graph -->
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GadAhmed1&theme=dracula&hide_border=true&area=true" />
-</p>
+</p> -->
 
 
 ---
